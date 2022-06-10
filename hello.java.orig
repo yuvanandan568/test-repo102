@@ -8,6 +8,7 @@ class hello()    #from dev1
 {
 
 	public statis void main()  #from dev1
+>>>>>>> dc6facca68cf26a385b54123addcb26281140301
 	{
 		system.out.println("hello from dev1");
 	}
